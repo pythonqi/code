@@ -1,6 +1,6 @@
 # README
 
-English | 简体中文
+English | [简体中文](https://github.com/pythonqi/code/blob/master/README_zh.md)
 
 ## Introductions:
 
