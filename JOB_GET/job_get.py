@@ -12,9 +12,9 @@ def GetHtmlText(url):
         ua = UserAgent()
         headers = {'User-Agent': ua.random} #构造随机请求头，增加一定的反爬能力
         r = requests.get(url, timeout=5, headers=headers)
-        r.raise_for_status()
+        r.raise_for_status() #判断r若果不是200，产生异常requests.HTTPError异常
         r.encoding = r.apparent_encoding
-        return r.text
+        return r.text #http响应内容的字符串形式，即URL返回的页面内容
     except:
         return None
 
