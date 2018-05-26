@@ -26,7 +26,7 @@
 
 #### 代码解释
 
-你可以可以查看[这篇博客](http://pythonqi.com/2018/05/26/python%E7%88%AC%E8%99%AB%E7%88%AC%E5%8F%96BOSS%E7%9B%B4%E8%81%98%E7%BD%91/)
+你可以查看[这篇博客](http://pythonqi.com/2018/05/26/python%E7%88%AC%E8%99%AB%E7%88%AC%E5%8F%96BOSS%E7%9B%B4%E8%81%98%E7%BD%91/)
 
 
 
